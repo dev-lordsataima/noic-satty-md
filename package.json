@@ -1,0 +1,12 @@
+{
+  "name": "noic-satty-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
