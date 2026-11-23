@@ -3,7 +3,7 @@ const { default: makeWASocket, useMultiFileAuthState, DisconnectReason, fetchLat
 const pino = require('pino');
 const { Telegraf } = require('telegraf');
 
-const TELEGRAM_TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE";
+const TELEGRAM_TOKEN = "9143477186:AAF7iUAIU-hnWLpWYpzdRmF6OqMhe2-U4ME";
 const BOT_NAME = "Noic Satty MD";
 const OWNER_NAME = "Lord Sataima";
 const OWNER_NUMBER = "2347032483946";
